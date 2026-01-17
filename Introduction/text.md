@@ -8,7 +8,10 @@ Availability Zone:
 Picture to get detail about Region and Avalibility Zone:
 --------------------------------------------------------
 
-DC1              DC2               DC3            Dc4
-
-DC5              DC6               DC7            DC8
     
+             LAN                   LAN                 LAN
+       DC1-------------------DC2------------------DC3-----------------Dc4
+    WAN | 
+        |        LAN                   LAN                  LAN
+       DC5-------------------DC6------------------DC7------------------DC8
+        
