@@ -9,7 +9,7 @@ Picture to get detail about Region and Avalibility Zone:
 --------------------------------------------------------
 
     
-             LAN                   LAN                 LAN
+                 LAN                   LAN                 LAN
        DC1-------------------DC2------------------DC3-----------------Dc4
     WAN | 
         |        LAN                   LAN                  LAN
