@@ -17,6 +17,16 @@ Picture to get detail about Region and Avalibility Zone:
         
 Cloud Computing Strategories:
 -----------------------------
-
-On-Premises
------------
+On-Premises                        IAAS                        PAAS                      SAAS
+-----------                       -------                      ------                    ------
+Application                       Application                  Application               Everything managed by Vendor like M365, Salesforce, Workday.
+Data                              Data                         Data
+Runtime                           Runtime
+Middleware                        Middleware
+O/s                               O/S                                
+Virtulazation                       
+servers
+networking
+storage
+----------------
+Managed by User
