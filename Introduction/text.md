@@ -15,3 +15,8 @@ Picture to get detail about Region and Avalibility Zone:
         |        LAN                   LAN                  LAN
        DC5-------------------DC6------------------DC7------------------DC8
         
+Cloud Computing Strategories:
+-----------------------------
+
+On-Premises
+-----------
